@@ -1,0 +1,11 @@
+/Users/omar-/Projects/ReadingFiles/ReadingFiles/bin/Debug/netcoreapp2.1/ReadingFiles.deps.json
+/Users/omar-/Projects/ReadingFiles/ReadingFiles/bin/Debug/netcoreapp2.1/ReadingFiles.runtimeconfig.json
+/Users/omar-/Projects/ReadingFiles/ReadingFiles/bin/Debug/netcoreapp2.1/ReadingFiles.runtimeconfig.dev.json
+/Users/omar-/Projects/ReadingFiles/ReadingFiles/bin/Debug/netcoreapp2.1/ReadingFiles.dll
+/Users/omar-/Projects/ReadingFiles/ReadingFiles/bin/Debug/netcoreapp2.1/ReadingFiles.pdb
+/Users/omar-/Projects/ReadingFiles/ReadingFiles/obj/Debug/netcoreapp2.1/ReadingFiles.csprojAssemblyReference.cache
+/Users/omar-/Projects/ReadingFiles/ReadingFiles/obj/Debug/netcoreapp2.1/ReadingFiles.csproj.CoreCompileInputs.cache
+/Users/omar-/Projects/ReadingFiles/ReadingFiles/obj/Debug/netcoreapp2.1/ReadingFiles.AssemblyInfoInputs.cache
+/Users/omar-/Projects/ReadingFiles/ReadingFiles/obj/Debug/netcoreapp2.1/ReadingFiles.AssemblyInfo.cs
+/Users/omar-/Projects/ReadingFiles/ReadingFiles/obj/Debug/netcoreapp2.1/ReadingFiles.dll
+/Users/omar-/Projects/ReadingFiles/ReadingFiles/obj/Debug/netcoreapp2.1/ReadingFiles.pdb
